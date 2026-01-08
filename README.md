@@ -78,7 +78,7 @@ choreo update
 
 #### Building from source
 
-Alternatively you can build `medi` from source using Cargo:
+Alternatively you can build from source using Cargo:
 
 ```bash
 git clone https://github.com/cladam/choreo.git
